@@ -13,5 +13,6 @@
  - Part 2. Linear Regression.docx - project description, part 2
 
 **Illustration:**       Plots of residuals distribution for the linear regression model
+
 ![alt text](https://github.com/dmitrii-govorukhin/Call-Log-Data-Analysis/blob/main/screenshot.png?raw=true)
 
