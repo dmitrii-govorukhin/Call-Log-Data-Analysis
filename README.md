@@ -1,2 +1,18 @@
-# CalSAWS-Call-Log-Data-Analysis
-ML analysis of call center logs
+# Call Log Data Analysis
+
+**Project:** 					  CalSAWS (California Statewide Automated Welfare System) Call Center of the county
+
+**Consumer:**					  Contra Costa County EHSD
+
+**Program languages:**  Python
+
+**Description:**        Analysis of call center data using statistical methods to identify characteristic distributions and correlations. The repository contains some files with my code and project description:
+
+ - call_log.ipynb - Python notebook with source code
+ - Part 1. Data analysis.docx - project description, part 1
+ - Part 2. Linear Regression.docx - project description, part 2
+
+**Illustration:**       Maintenance schedule as a part of the Monitoring Portal
+
+![alt text](https://github.com/dmitrii-govorukhin/Call-Log-Data-Analysis/blob/main/screenshot.png?raw=true)
+
